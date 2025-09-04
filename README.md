@@ -28,14 +28,12 @@ Uygulamada:
 ## 📷 Ekran Görüntüleri
 
 <div align="center">
-
 <img src="screens/first.png" width="200"/>
 <img src="screens/add.png" width="200"/>
 <img src="screens/save.png" width="200"/>
 <br/>
 <img src="screens/last.png" width="200"/>
 <img src="screens/delete.png" width="200"/>
-
 </div>
 
 ---
